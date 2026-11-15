@@ -1,0 +1,4 @@
+connect=fivem://connect/cfx.re/join/m55vj7
+discord=https://discord.gg/wtpkpx4TTx
+topserveur=https://top-serveurs.net/gta/united-states-rp-V2
+stream=Yann_kerno|https://www.twitch.tv/yann_kerno
