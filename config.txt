@@ -7,6 +7,6 @@ staff=DLZ_Venom|Fondateur / Développeur
 staff=Emrick|Fondateur / Développeur
 staff=Tsuki <3|Co-Fondatrice / Développeuse
 staff=Drackyam|RESP. Serveur / Contributeur
-staff=Yann_Kerno|RESP. Communication / Modérateur"
+staff=Yann_Kerno|RESP. Communication / Modérateur
 patch=MISE À JOUR UI|22.10.2026|De nouvelles mises à jour ont été effectuées : mise à jour des scripts de drogue et d’ATM avec de nouveaux mini-jeux, ajout de caisses de stockage plaçables avec un système de piratage, amélioration visuelle des shops et des tables de craft, ajout d’un craft relié aux coffres pour les entreprises, réduction du rôle de Cayo Perico dans la gestion du serveur et préparation de nouveaux scripts de go-fast et de cambriolage de maisons avec des PNJ.
 patch=MISE À JOUR HALLOWEEN|11.10.2026|De nouvelles mises à jour ont été effectuées : amélioration de la Freecam et du jacuzzi, ajout d’une nouvelle drogue événementielle et de son laboratoire (MLO), décorations Halloween, modification du loading screen et du logo en orange, augmentation du spawn des citrouilles, modification des tasers et refonte du système de vente de drogues avec des quotas de policiers requis selon la drogue.
